@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, read tech articles and lear new tech.
+- :zap: In my free time, read tech articles and learn new tech.
 
 - :mailbox:How to reach me: https://t.me/junaers
 
